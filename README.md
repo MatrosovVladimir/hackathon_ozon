@@ -1,8 +1,8 @@
-Ссылка на скачивание весов модели: https://drive.google.com/file/d/1_473wLb1boSTLy3i_ww7Re-ZQUjjsYCt/view?usp=sharing
-Распаковываем в папку с проектом.
-Ноутбук для создания эмбеддингов для тестовой выборки: make-name-bert768-test.ipynb
-Ноутбук обработка тестовой выборки и сабмит: final_end_function_29038.ipynb
-Ссылка на скачивание готовых эмбедингов для тестовой выборки: https://drive.google.com/file/d/1a4eDk6Xo2KsGECOTkmBbICW_9Oor21Jf/view?usp=sharing
+- Ссылка на скачивание весов модели: https://drive.google.com/file/d/1_473wLb1boSTLy3i_ww7Re-ZQUjjsYCt/view?usp=sharing
+- Распаковываем в папку с проектом.
+- Ноутбук для создания эмбеддингов для тестовой выборки: make-name-bert768-test.ipynb
+- Ноутбук обработка тестовой выборки и сабмит: final_end_function_29038.ipynb
+- Ссылка на скачивание готовых эмбедингов для тестовой выборки: https://drive.google.com/file/d/1a4eDk6Xo2KsGECOTkmBbICW_9Oor21Jf/view?usp=sharing
 
 
 
